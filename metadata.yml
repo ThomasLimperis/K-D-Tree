@@ -1,0 +1,12 @@
+---
+:id: 12925473
+:submitters:
+- :name: Thomas David Limperis
+  :email: tlimperi@ucsd.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2019-01-25 21:50:22.052746000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2019-01-25 13:50:22.052746000 Z
+:status: processed
+:score: 31.0
